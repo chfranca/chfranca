@@ -6,8 +6,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=chfranca&count_private=true&" alt="Github status" heigth="200" width="50%"/>
-</p>
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chfranca&layout=compact&" alt="Most used languages" heigth="200" width="50%"/>
 </p>
 
