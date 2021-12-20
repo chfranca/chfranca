@@ -5,8 +5,8 @@
 - 📫 How to reach me chenriqueinfo@gmail.com or in IN => https://www.linkedin.com/in/chfranca/
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chfranca&count_private=true&" alt="Github status" heigth="200" width="70%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chfranca&layout=compact&" alt="Most used languages" heigth="200" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chfranca&count_private=true&" alt="Github status" heigth="200" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chfranca&layout=compact&" alt="Most used languages" heigth="200" width="50%"/>
 </p>
 
 
