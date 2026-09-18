@@ -1,17 +1,37 @@
-- 👋 Hi, I’m @chfranca
-- 👀 I’m interested in architecture, microservices and startups
-- 🌱 I’m currently learning more about Laravel and DevOps, but I know about docker, git, golang, js and another tecnologies
-- 💞️ I’m looking to collaborate on ... (I not know yet...) Maybe I start a youtube channel... WDYT?
-- 📫 How to reach me 
+# Hey, I'm Carlos 👋
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=http)](mailto:chenriqueinfo@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chfranca/)](https://www.linkedin.com/in/chfranca/)
+I'm a software engineer and founder based in Brazil. I like taking an idea that's still a little fuzzy, figuring out what matters, and building something people can actually use.
 
-![](https://raw.githubusercontent.com/chfranca/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/chfranca/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+My work spans products, platforms, and distributed systems. I enjoy connecting those pieces: understanding the problem, making architecture decisions, writing code, and keeping things running in production.
 
-<!---
-chfranca/chfranca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### What I'm working on
 
+At **Nubank**, I work on platforms and design systems with Flutter and Clojure, helping product teams build on shared foundations. Server-driven UI, rendering performance, and developer experience are a big part of that work.
+
+I also run **Origammi**, where I'm building:
+
+- **Decantarium** — fragrance e-commerce.
+- **Allumora** — software for salons and clinics.
+- **Previdium** — software for law firms handling Brazilian social security cases.
+
+### Things I like digging into
+
+- Turning early product ideas into working software.
+- Evolving systems while people are using them.
+- Making interfaces feel stable and responsive.
+- Building tools that make other engineers' work easier.
+- Talking through technical decisions and mentoring engineers.
+
+### Tools I work with
+
+TypeScript / JavaScript · Python / Django · Go · Clojure · PHP / Laravel
+
+React / Next.js · Dart / Flutter
+
+PostgreSQL · MySQL · Kafka · AWS · Docker · Kubernetes
+
+---
+
+Always happy to talk about products, software architecture, and building things from scratch.
+
+[LinkedIn](https://www.linkedin.com/in/chfranca/) · [Email](mailto:chenriqueinfo@gmail.com)
